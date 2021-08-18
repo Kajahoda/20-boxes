@@ -10,3 +10,8 @@
     border: 2px solid blue;
     margin: 10px;
 }
+.box1 {
+    height: 20px;
+    width: 20px;
+    background: blue;
+}
